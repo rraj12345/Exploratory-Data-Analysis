@@ -1,1 +1,1 @@
-
+In this EDA project we will performing HR Analytics - Employees Engagement Analysis which is present in kaggle platform. In this EDA Project we will analyze and visualize our dataset. Here, we'll be performing different analysis and visualizations using the Employees Enagagment Dataset to obtain some valuable insights
